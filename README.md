@@ -1,8 +1,4 @@
 # Inqilob | Senior Full Stack Dev
-ف - Inqilobchi | 20+ Bitim | 97% Success | 250ms Response React 19 | Next.js 15 | Nest.js 11 | Telegram Bot | React Native
-
-
-Copy code
 
 <div align="center">
 
@@ -14,43 +10,4 @@ Copy code
 
 </div>
 
-## 🚀 Top Projects (Live)
-Project
 
-Tech Stack
-
-Users
-
-Status
-
-SMM Panel Bot
-
-Node.js + GramJS
-
-14K+
-
-🟢 Live
-
-Media API
-
-Nest.js + FFmpeg
-
-50K+** req/day
-
-🟢 Live
-
-Food Delivery
-
-Next.js + Socket.io
-
-Real-time
-
-🟢 Live
-
-E-commerce
-
-Stripe + Prisma
-
-Full payment
-
-🟢 Live
